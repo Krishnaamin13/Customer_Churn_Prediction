@@ -50,6 +50,4 @@ Telco Customer Churn Dataset from Kaggle.
 
 Random Forest achieved the best overall performance among the tested models for predicting customer churn.
 
-## Author
 
-Your Name
